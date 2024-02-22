@@ -1,0 +1,15 @@
+{
+    "name":"env-manifest",
+     "description":"environment asset information",
+     "asset_root_path":"./assets/",
+     "assets":[
+        {"name":"",
+        "extension":"gltf",
+        "type":"",
+        "path":"landscape31.gltf",
+        "pos":[0,0,0],
+        "material":[{"type":"","path":""}]
+
+        }
+     ]
+}
